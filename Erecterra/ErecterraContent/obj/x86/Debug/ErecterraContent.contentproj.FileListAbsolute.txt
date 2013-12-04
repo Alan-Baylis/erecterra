@@ -1,0 +1,2 @@
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\ErecterraContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\ErecterraContent\obj\x86\Debug\ResolveAssemblyReference.cache

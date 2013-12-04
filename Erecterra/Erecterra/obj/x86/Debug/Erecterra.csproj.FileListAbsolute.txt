@@ -1,0 +1,44 @@
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.sdf
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Objects\UIObjects\Menus.xsd
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_16.xnb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_18.xnb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_72.xnb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Effects\ColorEffect.xnb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Menus\Menus.xml
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.exe.manifest
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.application
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.exe
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.pdb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\ErecterraData.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Utilites.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\ErecterraData.pdb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Utilites.pdb
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.exe.manifest
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.application
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.exe
+C:\Users\William\Desktop\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.sdf
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Objects\UIObjects\Menus.xsd
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_14.xnb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_16.xnb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_18.xnb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_72.xnb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Effects\ColorEffect.xnb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Menus\Menus.xml
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.exe.manifest
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.application
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.exe
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Erecterra.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\ErecterraData.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Utilites.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\ErecterraData.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Utilites.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.exe.manifest
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.application
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.exe
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\obj\x86\Debug\Erecterra.pdb

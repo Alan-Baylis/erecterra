@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\arial_14.spritefont</Source>
+      <Name>Fonts\arial_14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_14.xnb</Output>
+      <Time>2012-02-10T14:07:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\arial_16.spritefont</Source>
+      <Name>Fonts\arial_16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_16.xnb</Output>
+      <Time>2012-02-10T14:08:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\arial_18.spritefont</Source>
+      <Name>Fonts\arial_18</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_18.xnb</Output>
+      <Time>2012-02-10T14:08:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\arial_72.spritefont</Source>
+      <Name>Fonts\arial_72</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Fonts\arial_72.xnb</Output>
+      <Time>2012-02-10T14:08:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\ColorEffect.fx</Source>
+      <Name>Effects\ColorEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\Effects\ColorEffect.xnb</Output>
+      <Time>2012-03-30T16:40:42-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\ErecterraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\ErecterraContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Erecterra\Erecterra\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-01T20:58:53.443835-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,12 @@
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\bin\Debug\Erecterra.sdf
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\bin\Debug\ErecterraData.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\bin\Debug\ErecterraData.pdb
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\obj\Debug\ErecterraData.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\ErecterraData\obj\Debug\ErecterraData.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\bin\Debug\Erecterra.sdf
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\bin\Debug\ErecterraData.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\bin\Debug\ErecterraData.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\obj\Debug\ErecterraData.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\ErecterraData\obj\Debug\ErecterraData.pdb

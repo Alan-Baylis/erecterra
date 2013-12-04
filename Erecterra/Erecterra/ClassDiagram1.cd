@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lang.Erecterra.Components.AlreadyInstantiatedException" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\AlreadyInstantiatedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.CameraManager" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAEAABKEAAQAgASAAAAEAAANDABAACAAAABAwQQI=</HashCode>
+      <FileName>Components\CameraManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.DatabaseManager" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAABAAAAAAAAAIQAABIAAAAQA=</HashCode>
+      <FileName>Components\DatabaseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.FrameRateManager" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAQAAAAAAAAAAACCAAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Components\FrameRateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.InputManager" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kAQAEMAARAAAARAAAEAAMgUAAFAAABAEAAAAQAUoSQA=</HashCode>
+      <FileName>Components\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.InputEventArgs" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.MouseMovedEventArgs" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.LightingManager" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>0AQAgAABAAAAI8AiAAECAAAwIgGAAAAAGAgBAEAAAAA=</HashCode>
+      <FileName>Components\LightingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.TextureManager" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQEAAACAAAAAQBAAAAIAAAAAAAAAAAAQAAAAAAAAAg=</HashCode>
+      <FileName>Components\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Components.UIManager" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAEAAA11AAgAAAABAAGAAAAAgQAABAAAAAAE=</HashCode>
+      <FileName>Components\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Erecterra" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEIQEQEIAC4BCAAAJQDAgAKSCCAAAQCgAKABAAQU=</HashCode>
+      <FileName>Erecterra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Program" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Helpers.FractalHelper" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Helpers\FractalHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.BiomeNotImplementedException" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\BiomeNotImplementedException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.BiomeAndWeight" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAABAAAAAAAAAAAAAAAgAAAAAAIAAAA=</HashCode>
+      <FileName>Objects\FloatToType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.FloatToType">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAEAAgAAAAAAAAAAAAAAQAAAAAACEAA=</HashCode>
+      <FileName>Objects\FloatToType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Quadrant" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAhCAAAQAAAAAAAABAAAAAAAgAEACQAAAAIAA=</HashCode>
+      <FileName>Objects\Quadrant.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Sphere" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAIAgAgEAAQAAAAAAgAAAAIAAAAAAgAAAI=</HashCode>
+      <FileName>Objects\Sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.World" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAEYAEAAAACwgAAioUAAQgAAAIAAAAAIABATAAAAI=</HashCode>
+      <FileName>Objects\World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.Biome">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Biomes\Biome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.Desert">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Objects\Biomes\Desert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.Grass">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Objects\Biomes\Grass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.GrassWithDesert">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Objects\Biomes\GrassWithDesert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.Mountains">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Objects\Biomes\Mountains.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.Biomes.Ocean">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAQAAAAA=</HashCode>
+      <FileName>Objects\Biomes\Ocean.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.UIObjects.DeterioratingText">
+    <Position X="0.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAABgBAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\UIObjects\DeterioratingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.UIObjects.OnMenuItemPressedEventArgs" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\UIObjects\OnMenuItemPressedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.UIObjects.UIMenu" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAEAAMhAAEAAAIAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\UIObjects\UIMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.UIObjects.UIObject">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAAAgAQAAAAIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\UIObjects\UIObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lang.Erecterra.Objects.UIObjects.UIText">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIEAAAgAAAAAAAAAAAAAAAAAAAAAACAoAAAA=</HashCode>
+      <FileName>Objects\UIObjects\UIText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Lang.Erecterra.Objects.WaterVertice" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Objects\Quadrant.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Lang.Erecterra.Objects.QuadrantVertex" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAEAAgAAgAAAAAAABIAAABAAAAgEgAAAA=</HashCode>
+      <FileName>Objects\QuadrantVertice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Enum Name="Lang.Erecterra.Objects.QuadrantVerticeType" Collapsed="true">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\QuadrantVertice.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

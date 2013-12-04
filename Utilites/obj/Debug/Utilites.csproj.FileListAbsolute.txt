@@ -1,0 +1,10 @@
+C:\Users\William\Desktop\Erecterra\Erecterra\Utilites\bin\Debug\Utilites.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\Utilites\bin\Debug\Utilites.pdb
+C:\Users\William\Desktop\Erecterra\Erecterra\Utilites\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Desktop\Erecterra\Erecterra\Utilites\obj\Debug\Utilites.dll
+C:\Users\William\Desktop\Erecterra\Erecterra\Utilites\obj\Debug\Utilites.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Utilites\bin\Debug\Utilites.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Utilites\bin\Debug\Utilites.pdb
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Utilites\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Utilites\obj\Debug\Utilites.dll
+C:\Users\William\Documents\Aptana Studio 3 Workspace\Erecterra\Erecterra\Utilites\obj\Debug\Utilites.pdb

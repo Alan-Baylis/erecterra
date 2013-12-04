@@ -1,0 +1,38 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.williamlang.net" xmlns="http://www.williamlang.net">
+  <xs:element name="UIMenus" type="UIMenus" />  
+  <xs:complexType name="UIMenus">
+    <xs:sequence>
+      <xs:element name="UIMenu" type="UIMenu" minOccurs="0" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="UIMenu">
+    <xs:sequence>
+      <xs:element name="UIText" type="UIText" minOccurs="0" maxOccurs="unbounded" />
+    </xs:sequence>
+    <xs:attribute name="Name" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="UIText">
+    <xs:sequence>     
+      <xs:element name="Text" type="xs:string" minOccurs="1" maxOccurs="1" />
+      <xs:element name="Size" type="xs:decimal" minOccurs="1" maxOccurs="1" />
+      <xs:element name="Color" type="Color" minOccurs="1" maxOccurs="1" />
+      <xs:element name="Position" type="Position" minOccurs="1" maxOccurs="1" />
+    </xs:sequence>    
+  </xs:complexType>
+  <xs:complexType name="Color">
+    <xs:attribute name="Red" type="xs:decimal" />
+    <xs:attribute name="Green" type="xs:decimal" />
+    <xs:attribute name="Blue" type="xs:decimal" />
+  </xs:complexType>
+  <xs:complexType name="Position">
+    <xs:attribute name="HorizontalAlignment" type="HorizontalAlignment" />
+    <xs:attribute name="X" type="xs:decimal" />
+    <xs:attribute name="Y" type="xs:decimal" />
+  </xs:complexType>
+  <xs:simpleType  name="HorizontalAlignment">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Middle" />
+      <xs:enumeration value="Right" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIMenus xmlns="http://www.williamlang.net">
+  <UIMenu Name="StartMenu" xmlns="">
+    <UIText>
+      <Text>Erecterra</Text>
+      <Size>72</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Middle" X="0" Y="100" />
+    </UIText>
+    <UIText>
+      <Text>New World</Text>
+      <Size>18</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Middle" X="0" Y="400" />
+    </UIText>
+    <UIText>
+      <Text>Load World</Text>
+      <Size>18</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Middle" X="0" Y="440" />
+    </UIText>
+  </UIMenu>
+  <UIMenu Name="LoadMenu" xmlns="">
+    <UIText>
+      <Text>Select a World</Text>
+      <Size>72</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Middle" X="0" Y="100" />
+    </UIText>
+  </UIMenu>
+  <UIMenu Name="Information" xmlns="">
+    <UIText>
+      <Text>Quadrant Count: 000</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="70" />
+    </UIText>
+    <UIText>
+      <Text>Generating quadrant...</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="90" />
+    </UIText>
+    <UIText>
+      <Text>FPS: 00</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="30" />
+    </UIText>
+    <UIText>
+      <Text>[X = 00.0k, Y = 0.0k, Z = 00.0k]</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="50" />
+    </UIText>
+    <UIText>
+      <Text>00:00 AM</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="10" />
+    </UIText>
+    <UIText>
+      <Text>000.000</Text>
+      <Size>14</Size>
+      <Color Red="0" Green="0" Blue="0" />
+      <Position HorizontalAlignment="Right" X="20" Y="110" />
+    </UIText>
+  </UIMenu>
+</UIMenus>
